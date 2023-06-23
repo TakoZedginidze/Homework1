@@ -1,1 +1,1 @@
-New file conflict from VS code
+New file conflict from GitHub
